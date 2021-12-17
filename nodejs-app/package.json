@@ -1,0 +1,24 @@
+{
+  "name": "ciam-ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokohans/ciam-ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kokohans/ciam-ci-cd/issues"
+  },
+  "homepage": "https://github.com/kokohans/ciam-ci-cd#readme",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "node-fetch": "^2.6.0"
+  }
+}
